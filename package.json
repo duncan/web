@@ -1,5 +1,5 @@
 {
-  "name": "web-127f",
+  "name": "duncandavidson.com",
   "private": true,
   "sideEffects": false,
   "scripts": {
@@ -16,7 +16,7 @@
     "start": "remix-serve build",
     "test": "vitest",
     "typecheck": "tsc"
-  }
+  },
   "prettier": {},
   "eslintIgnore": [
     "/node_modules",
